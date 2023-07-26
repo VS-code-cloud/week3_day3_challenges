@@ -1,0 +1,30 @@
+h1 {
+	font-family: Helvetica;
+	text-align: center;
+}
+
+img {
+	width: 100px;
+}
+
+#sub_div1 {
+	width: 33%;
+	margin: auto;
+	margin-left: 0px;
+}
+#sub_div2 {
+	width: 33%;
+	margin: auto;
+}
+#sub_div3 {
+	width: 33%;
+	margin: auto;
+	margin-left: 66%;
+}
+
+#big_div {
+	border: 5px solid black;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+}
